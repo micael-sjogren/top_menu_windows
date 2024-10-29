@@ -1,7 +1,3 @@
-Here’s an improved version of your README for your GitHub project, enhancing clarity and organization while keeping a minimalist tone:
-
----
-
 # Minimalistic Menu
 
 A simple and minimalist menu application that allows you to execute scripts, launch programs, and explore endless possibilities! Use this menu to organize and manage your scripts and applications effortlessly.
