@@ -9,3 +9,7 @@ Add four digits and one underscore in the beginning of all files and folders, th
 If the four digits is higher than 8000 they will not appear in the menu.
 If you want a divider in the submenu create an empty textfile like 1000 x---------------x.txt
 Play around with the settings file to setup position, colors and so on.
+
+![image](https://github.com/user-attachments/assets/ec50421b-a827-42a8-9978-847e2882281b)
+
+![image](https://github.com/user-attachments/assets/462e1333-e548-44dc-8a58-92e7eefcc6a4)
