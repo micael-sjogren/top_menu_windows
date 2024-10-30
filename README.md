@@ -2,7 +2,7 @@
 
 A simple and minimalist menu application that allows you to execute scripts, launch programs, and explore endless possibilities! Use this menu to organize and manage your scripts and applications effortlessly.
 
-## Features
+## Features 
 
 - Execute batch files, PowerShell scripts, Python scripts, shortcuts, executable files, and more.
 - Highly customizable menu settings for positioning, colors, and display.
