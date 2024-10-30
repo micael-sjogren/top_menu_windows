@@ -29,6 +29,28 @@ You can try out the example to get started, extract it to C:\menu\ or adjust the
 4. **Using Python Scripts**:
    - Ensure Python is installed on your system to execute Python scripts from the menu.
 
+
+### Menu Folder Setup
+The menu is using the folder structure to arrange the menu items, see example below.
+
+Menu:
+![image](https://github.com/user-attachments/assets/0bd38429-109b-4e70-b66f-6ff1851966c4)
+
+Folder:
+![image](https://github.com/user-attachments/assets/637c10f8-653f-4eb1-8b8e-ef59a8d24f6d)
+
+Submenu:
+![image](https://github.com/user-attachments/assets/3bd89899-dce9-42d1-bd94-8897ac14bd87)
+
+
+Subfolder:
+![image](https://github.com/user-attachments/assets/cb0bde3f-799e-422f-a22d-8b3475cdb450)
+
+
+
+
+
+
 ### File Naming Convention
 
 To ensure proper sorting in the menu:
