@@ -63,7 +63,7 @@ Subfolder
 To ensure proper sorting in the menu:
 
 - **Prefix**: Add a four-digit number followed by an underscore at the beginning of all files and folders (e.g., `1000_example_script.bat`).
-- **Sorting**: If the four-digit prefix is higher than `8000`, that item will not appear in the menu.
+- **Hiding**: If the four-digit prefix is higher than `8000`, that item will not appear in the menu.
 - **Dividers**: To create a divider in the submenu, create an empty text file named `1000_x---------------x.txt`.
 
 ## Customization
