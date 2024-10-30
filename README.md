@@ -57,7 +57,7 @@ Subfolder
 
 
 
-### File Naming Convention
+## File Naming Convention
 
 To ensure proper sorting in the menu:
 
