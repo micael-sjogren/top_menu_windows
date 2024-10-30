@@ -7,6 +7,10 @@ A simple and minimalist menu application that allows you to execute scripts, lau
 - Execute batch files, PowerShell scripts, Python scripts, shortcuts, executable files, and more.
 - Highly customizable menu settings for positioning, colors, and display.
 
+## Quickstart
+You can try out the example to get started, extract it to C:\menu\ or adjust the config file.
+[example.zip](https://github.com/user-attachments/files/17560440/example.zip)
+
 ## Prerequisites
 
 - **Python**: If you plan to execute Python scripts, ensure Python is installed on your computer.
