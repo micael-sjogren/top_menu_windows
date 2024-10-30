@@ -30,7 +30,7 @@ You can try out the example to get started, extract it to C:\menu\ or adjust the
    - Ensure Python is installed on your system to execute Python scripts from the menu.
 
 
-### Menu Folder Setup
+## Menu Folder Setup
 The menu is using the folder structure to arrange the menu items, see example below.
 
 Menu
