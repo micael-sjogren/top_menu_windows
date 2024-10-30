@@ -40,6 +40,5 @@ Feel free to explore and modify the `Main.exe.config` settings to adjust:
 - **Positioning**: Change the layout of the menu items.
 - **Colors**: Customize the visual appearance of the menu.
 
-![image](https://github.com/user-attachments/assets/ec50421b-a827-42a8-9978-847e2882281b)
 
 ![image](https://github.com/user-attachments/assets/462e1333-e548-44dc-8a58-92e7eefcc6a4)
