@@ -33,17 +33,22 @@ You can try out the example to get started, extract it to C:\menu\ or adjust the
 ### Menu Folder Setup
 The menu is using the folder structure to arrange the menu items, see example below.
 
-Menu:
+Menu
+
 ![image](https://github.com/user-attachments/assets/0bd38429-109b-4e70-b66f-6ff1851966c4)
 
-Folder:
+
+Folder
+
 ![image](https://github.com/user-attachments/assets/637c10f8-653f-4eb1-8b8e-ef59a8d24f6d)
 
-Submenu:
+
+Submenu
+
 ![image](https://github.com/user-attachments/assets/3bd89899-dce9-42d1-bd94-8897ac14bd87)
 
 
-Subfolder:
+Subfolder
 ![image](https://github.com/user-attachments/assets/cb0bde3f-799e-422f-a22d-8b3475cdb450)
 
 
